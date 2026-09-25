@@ -1,0 +1,8 @@
+- Hãy chạy Terminal cho Back End
+- Nhập "cd BackEnd"
+- Nhập "npm install"
+- Nhập "node server.js"
+- Hãy tạo 1 Terminal mới cho Front End
+- Nhập "cd Front End"
+- Nhập "npm install"
+- Nhập "npm run dev"
